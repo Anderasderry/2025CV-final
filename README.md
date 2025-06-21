@@ -28,6 +28,7 @@
  
 
 提交要求：
+
 （1） 提交pdf格式的实验报告，报告中除对模型、数据和实验结果的介绍外，还应包含用Tensorboard可视化的训练过程中在训练集和测试集上的loss曲线，以及在测试集上的PSNR等指标；
 
 （2） 报告中应提供详细的实验设置，如训练测试集划分、网络结构、batch size、learning rate、优化器、iteration、epoch、loss function、评价指标等。
